@@ -10,7 +10,8 @@ His leash has two clips. Attach the larger (main) one to his harness (the ring i
 
 See these photos for how to put on the harness! Note the black parts buckle under his arms:
 
-LALALA
+| <img src="./harness-1.jpeg" width="400"> | <img src="./harness-2.png" width="400"> |
+|-|-|
 
 I also have this great little miniature pooper scooper so you don’t have to touch the poop, it has bags in it and you just line it with one before you go, take that with you!
 
@@ -29,5 +30,9 @@ Regarding other dogs -- he's very friendly and often wants to meet them, but _th
 He sometimes has strong opinions on which way to go or when he wants to cross the street. Frankly I suggest just giving up and doing what he wants, he will act like you are pulling him into Mount Doom if you try to keep walking a way he doesn't want to go, total baby.
 
 See photos for suggested routes! Each one takes 20-30 minutes:
+
+| ![](./route-1.jpeg) | ![](./route-2.jpeg) |
+|:--------:|:-----------:|
+| ![](./route-3.jpeg) | ![](./route-4.jpeg) |
 
 Note each one is a loop -- he doesn't like to just "turn around" because as mentioned he's a baby.
