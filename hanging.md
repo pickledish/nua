@@ -1,4 +1,4 @@
-## Hanging Out with the Dog
+# Hanging Out with the Dog
 
 Overall, Nua is very quiet and chill, and will probably just sleep (or stare at you uncomfortably) for most of the day when not walking/etc.
 
